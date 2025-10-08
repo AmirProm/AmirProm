@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&lines=Hi+I'm+Amir+👋;+I+am+a+Developer+💻;" />
 <P/>
   <P align="center" width="100%">
-  <img src="https://github.com/user-attachments/assets/8bc3c271-8e82-41ec-be52-d9f692fa5677"  />
+  <img src="https://https://github.com/AmirProm/assets/8bc3c271-8e82-41ec-be52-d9f692fa5677"  />
 <P/>
 
 
