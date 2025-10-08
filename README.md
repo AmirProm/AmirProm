@@ -41,7 +41,7 @@ life:"Car",
 <P/>
   
   <P align="center" width="50%">
-  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,githup,mongodb&includeNames=true&theme=nautilus"  />
+  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,github,mongodb&includeNames=true&theme=nautilus"  />
 <P/>
 
   <P align="center" width="50%">
