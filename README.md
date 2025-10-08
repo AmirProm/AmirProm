@@ -37,11 +37,11 @@ life:"Car",
 <P/>
   
   <P align="center" width="50%">
-  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=angular,nuxt,bootstrap,.net&includeNames=true&theme=nautilus"  />
+  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=angular,bootstrap,.net&includeNames=true&theme=nautilus"  />
 <P/>
   
   <P align="center" width="50%">
-  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,mongodb&includeNames=true&theme=nautilus"  />
+  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,githup,mongodb&includeNames=true&theme=nautilus"  />
 <P/>
 
   <P align="center" width="50%">
