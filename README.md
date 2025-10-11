@@ -12,7 +12,7 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=AmirProm&data=followers,repositories,stars,commits&theme=nautilus"  />
 <P/>
 <P>
-- 👋 Hi, I'm **Amir**, a full-stack web developer passionate about creating clean and efficient applications.  
+- 👋 Hi, I'm **Amir** , a full-stack web developer passionate about creating clean and efficient applications.  
 
 - 💻 Currently working with **.NET** and **Angular**.  
 
