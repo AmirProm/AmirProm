@@ -11,11 +11,11 @@
 <P align="center" width="100%">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=AmirProm&data=followers,repositories,stars,commits&theme=nautilus"  />
 <P/>
+- 👋 Hi, I'm **Amir**, a full-stack web developer passionate about creating clean and efficient applications.  
+- 💻 Currently working with **.NET** and **Angular**.  
+- 📚 Learning **Nuxt.js** to expand my frontend skills.  
+- 🌱 Interested in web security and scalable app design.
 
-
-- 👋 Hi I'm Amir
-- 💻 I'm using  `.Net,Angular`
-- 🏫 I'm waching `Nuxt JS` Mactab course
 <br>
 
 <h2> 🙎‍♂️ Personal info</h2>
@@ -25,7 +25,7 @@ const personalInfo = {
 name:'AmiraliSafai',
 birthday:'24 may 2008',
 exercise:true,
-life:"Car",
+life:"Coding",
 }
 ```
 
