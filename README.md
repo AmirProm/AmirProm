@@ -37,7 +37,7 @@ life:"Coding",
 <h2> 🔧Skills</h2>
 
 <P align="center" width="50%">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,c,csharp,php,json,powershell&includeNames=true&theme=nautilus"  />
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,csharp,php,json,powershell&includeNames=true&theme=nautilus"  />
 <P/>
   
   <P align="center" width="50%">
@@ -45,7 +45,7 @@ life:"Coding",
 <P/>
   
   <P align="center" width="50%">
-  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,mongodb,wordpress&includeNames=true&theme=nautilus"  />
+  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,mongodb&includeNames=true&theme=nautilus"  />
 <P/>
 
   <P align="center" width="50%">
