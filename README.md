@@ -16,7 +16,7 @@
 
 - 💻 Currently working with **.NET** and **Angular**.  
 
-- 📚 Learning **Nuxt.js** to expand my frontend skills.  
+- 📚 Learning **Angualr** to expand my frontend skills.  
 
 - 🌱 Interested in web security and scalable app design.
 <P/>
