@@ -55,9 +55,7 @@ life:"Coding",
 
 <br>
 <br>
-<p align="center">
- <img align="center" src="https://github.com/AmirProm/AmirProm/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 
 
