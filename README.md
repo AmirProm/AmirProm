@@ -51,7 +51,8 @@ life:"Coding",
   <P align="center" width="50%">
   <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=nautilus"  />
 <P/>
-
+### 🏆 GitHub Achievements
+[![GitHub Achievements](https://github-profile-achievements-widgets.vercel.app/api/size?username=AmirProm&size=small)](https://github.com/AmirProm?tab=achievements)
 
 <br>
 <br>
