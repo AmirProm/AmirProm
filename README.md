@@ -76,62 +76,8 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
 
-<a href="https://github.com/AmirProm/Synq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirProm&repo=Synq&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
-<p align="center">
-  <b>Synq</b> — A modern web application built with
-  .NET, Angular and MongoDB.
-</p>
-
-<p align="center">
-  <a href="https://github.com/AmirProm/Synq">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirProm&repo=Synq&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirProm&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">💻 Most Used Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirProm&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmirProm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmirProm/AmirProm/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
