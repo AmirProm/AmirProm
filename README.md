@@ -1,64 +1,172 @@
-<P align="center" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&lines=Hi+I'm+Amir+👋;+I+am+Developer+💻;2026;" />
-<P/>
-  <P align="center" width="100%">
-  <img src="https://github.com/user-attachments/assets/8bc3c271-8e82-41ec-be52-d9f692fa5677"  />
-<P/>
+<!-- ===================== HEADER ===================== -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&lines=Hi+I'm+Amir+👋;Full-Stack+Developer+💻;.NET+%7C+Angular+%7C+MongoDB;Building+Something+Cool+🚀" />
+</p>
 
-<h2> 🖋️ About me</h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8bc3c271-8e82-41ec-be52-d9f692fa5677" />
+</p>
 
-<P align="center" width="100%">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=AmirProm&data=followers,repositories,stars,commits&theme=nautilus"  />
-<P/>
-<P>
-- 👋 Hi, I'm Amir,a full-stack web developer passionate about creating clean and efficient applications.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmirProm&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/AmirProm?label=Followers&style=flat" />
+</p>
 
-- 💻 Currently working with **.NET** and **Angular**.  
+---
 
-- 📚 Learning **Angualr** to expand my frontend skills.  
+<h2 align="center">🖋️ About Me</h2>
 
-- 🌱 Interested in web security and scalable app design.
-<P/>
-<br>
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=AmirProm&data=followers,repositories,stars,commits&theme=nautilus" />
+</p>
 
-<h2> 🙎‍♂️ Personal info</h2>
+<p align="center">
+  I'm Amir, a Full-Stack Developer focused on building clean,
+  scalable and secure web applications.
+</p>
 
-```Javascript
-const personalInfo = {
-name:'AmiraliSafai',
-birthday:'24 may 2008',
-exercise:true,
-life:"Coding",
-}
-```
+<p align="center">
+  🔹 Backend enthusiast<br>
+  🔹 .NET & ASP.NET Core<br>
+  🔹 Angular & TypeScript<br>
+  🔹 MongoDB<br>
+  🔹 Interested in Web Security & System Architecture
+</p>
 
-<br>
-<h2> 🔧Skills</h2>
+---
 
-<P align="center" width="50%">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,csharp,json,powershell&includeNames=true&theme=nautilus"  />
-<P/>
-  
-  <P align="center" width="50%">
-  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=angular,bootstrap,.net&includeNames=true&theme=nautilus"  />
-<P/>
-  
-  <P align="center" width="50%">
-  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,mongodb&includeNames=true&theme=nautilus"  />
-<P/>
+<h2 align="center">⚡ What I'm Working With</h2>
 
-  <P align="center" width="50%">
-  <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=nautilus"  />
-<P/>
-  
-<br>
-<br>
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,mongodb,git,github,linux,vscode" />
 
+</p>
 
+---
 
+<h2 align="center">🛠️ Tech Stack</h2>
 
+<h3 align="center">💻 Backend</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+</p>
 
+<p align="center">
+  ASP.NET Core • Web API • JWT • REST API • Authentication
+</p>
 
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
+</p>
+
+<p align="center">
+  Angular • TypeScript • JavaScript • HTML • CSS
+</p>
+
+<h3 align="center">🗄️ Database & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,linux,vscode" />
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+
+<a href="https://github.com/AmirProm/Synq">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirProm&repo=Synq&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+  <b>Synq</b> — A modern web application built with
+  .NET, Angular and MongoDB.
+</p>
+
+<p align="center">
+  <a href="https://github.com/AmirProm/Synq">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirProm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirProm&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirProm&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmirProm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmirProm/AmirProm/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirProm&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/AmirProm">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<h3 align="center">
+  💙 Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+  <i>Code. Build. Learn. Repeat. 🚀</i>
+</p>
